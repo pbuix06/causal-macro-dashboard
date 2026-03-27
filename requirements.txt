@@ -1,8 +1,11 @@
 streamlit
 pandas
 numpy
-altair
+matplotlib
 statsmodels
 tigramite
+joblib
+dcor
+scikit-learn
 streamlit-echarts
 watchdog
